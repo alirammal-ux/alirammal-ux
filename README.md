@@ -1,4 +1,14 @@
-### 🧪 Skills & Tools:
+# Ali Rammal
+🏛️ Bioinformatics · University of Bologna 
+
+## About
+ 
+Bioinformatics student with a strong interest in machine learning and data analysis applied to clinical research and personalised
+medicine.
+Motivated by the challenge of translating complex biological data into meaningful insights to improve patient outcomes 
+
+ 
+### Skills & Tools:
 
 | **Languages** | **Frameworks** | **Tools** |
 |---------------|---------------|-----------|
