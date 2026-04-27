@@ -16,4 +16,6 @@ Motivated by the challenge of translating complex biological data into meaningfu
 
 
 ### Current Projects:
-🔬Random Forest Regressor to build a latent-variable normalization system for TRAb measurements across different instruments.
+🔬 Random Forest Regressor to build a latent-variable normalization system for TRAb measurements across different instruments.
+
+🧪 Hidden Markov Model-based classification and structural validation of Kunitz-type protein domains.
