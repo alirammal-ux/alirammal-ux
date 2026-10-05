@@ -10,10 +10,10 @@ Motivated by the challenge of translating complex biological data into meaningfu
 ### Skills & Tools:
 | **Languages** | **Frameworks** | **Tools** |
 |---------------|---------------|-----------|
-| [![Languages](https://skillicons.dev/icons?i=python,r,sqlite)](https://skillicons.dev) | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="24"> &nbsp; <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="24"> &nbsp; <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="24"> &nbsp; <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" height="24"> &nbsp; <img src="https://img.shields.io/badge/Biopython-3776AB?style=flat-square&logo=python&logoColor=white" height="24"> | [![Tools](https://skillicons.dev/icons?i=bash,aws,docker)](https://skillicons.dev) |
+| [![Languages](https://skillicons.dev/icons?i=python,r,rust,sqlite)](https://skillicons.dev) | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="24"> &nbsp; <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="24"> &nbsp; <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="24"> | [![Tools](https://skillicons.dev/icons?i=bash,aws,docker,kubernetes)](https://skillicons.dev) &nbsp; <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" height="24"> |
 
 
 ### Current Projects:
-🔬 Random Forest Regressor to build a latent-variable normalization system for TRAb measurements across different instruments.
+🧠 c-ResUNet for automated segmentation of neuronal cells in fluorescence microscopy images.
 
 🧪 Hidden Markov Model-based classification and structural validation of Kunitz-type protein domains.
